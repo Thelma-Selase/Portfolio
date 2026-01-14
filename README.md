@@ -8,3 +8,4 @@ Financial Analyst at Xente
 ### Certifications
 Msc. Applied Statistics
 Bsc. Actuarial Science
+
